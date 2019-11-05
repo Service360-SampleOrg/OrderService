@@ -1,0 +1,11 @@
+' OrderService
+@startuml
+
+node OrderService {
+}
+
+node CatalogService {
+}
+
+OrderService --> CatalogService
+@enduml
