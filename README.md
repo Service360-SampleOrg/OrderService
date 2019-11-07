@@ -3,9 +3,9 @@
 Source of truth for Order data. Provides API to access and manipulate 
 customers orders data.
 
-Owner|Tier|Status|Landscape|Contexts
----|---|---|---|---
-CheckoutTeam|Tier1|Prod|Web|Payments, Orders, Customers, Catalog
+Owner|Tier|Status|Contexts
+---|---|---|---
+CheckoutTeam|Tier1|Prod|Web,Payments, Orders, Customers, Catalog
 
 ##### Environments
 
